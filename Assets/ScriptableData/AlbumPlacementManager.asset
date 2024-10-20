@@ -18,4 +18,4 @@ MonoBehaviour:
     type: 3}
   placementLayers:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 8

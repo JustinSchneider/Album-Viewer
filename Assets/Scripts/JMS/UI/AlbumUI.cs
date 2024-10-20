@@ -49,7 +49,7 @@ namespace JMS.UI
                 }
             }
 
-            if (Input.GetKeyDown(KeyCode.Escape))
+            if (Input.GetKeyDown(KeyCode.Escape) || Input.GetMouseButtonDown(1))
             {
                 placementManager.CancelPlacement();
             }
