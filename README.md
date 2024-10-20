@@ -1,5 +1,8 @@
 # SchneidOS Album Viewer
 
+![image](https://github.com/user-attachments/assets/047344c4-1da3-4802-a81b-6c6271ad843f)
+
+
 This repository contains Justin Schneider's submission to Griple for employment evaluation and consideration. The project README (that's this file, right here) will serve as both documentation of my thought process while completing the assignment, as well as a minor demonstration of my careless disregard for brevity in writing that -- hopefully -- conveys the personality and spirit I bring to any team I'm on.
 
 > Please note: Though my tone, much like Griple's, may be casual and irreverent, I want to make clear my sincere gratitude for consideration for the position and my excitement at the possibility of working with developers of this team's caliber and pedigree. So yeah, like... thanks and woohoo!
